@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="assets">
+    <file>slideshow_images_folder/image 3.png</file>
+    <file>Frame 1.png</file>
+    <file>me_1.png</file>
+    <file>compeng_Logo.png</file>
+  </qresource>
+</RCC>
